@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\Regi\Programming\Projects\UnitTesting\2. Techniques\src\TestingTechniques\bin\Debug\net9.0\TestingTechniques.deps.json
+C:\Users\User\Desktop\Regi\Programming\Projects\UnitTesting\2. Techniques\src\TestingTechniques\bin\Debug\net9.0\TestingTechniques.dll
+C:\Users\User\Desktop\Regi\Programming\Projects\UnitTesting\2. Techniques\src\TestingTechniques\bin\Debug\net9.0\TestingTechniques.pdb
+C:\Users\User\Desktop\Regi\Programming\Projects\UnitTesting\2. Techniques\src\TestingTechniques\obj\Debug\net9.0\TestingTechniques.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Regi\Programming\Projects\UnitTesting\2. Techniques\src\TestingTechniques\obj\Debug\net9.0\TestingTechniques.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Regi\Programming\Projects\UnitTesting\2. Techniques\src\TestingTechniques\obj\Debug\net9.0\TestingTechniques.AssemblyInfo.cs
+C:\Users\User\Desktop\Regi\Programming\Projects\UnitTesting\2. Techniques\src\TestingTechniques\obj\Debug\net9.0\TestingTechniques.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Regi\Programming\Projects\UnitTesting\2. Techniques\src\TestingTechniques\obj\Debug\net9.0\TestingTechniques.dll
+C:\Users\User\Desktop\Regi\Programming\Projects\UnitTesting\2. Techniques\src\TestingTechniques\obj\Debug\net9.0\refint\TestingTechniques.dll
+C:\Users\User\Desktop\Regi\Programming\Projects\UnitTesting\2. Techniques\src\TestingTechniques\obj\Debug\net9.0\TestingTechniques.pdb
+C:\Users\User\Desktop\Regi\Programming\Projects\UnitTesting\2. Techniques\src\TestingTechniques\obj\Debug\net9.0\ref\TestingTechniques.dll
